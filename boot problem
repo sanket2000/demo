@@ -1,0 +1,77 @@
+Boot successfully repaired.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/9P66FSS7xc/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com or to your favorite support forum.
+
+You can now reboot your computer.
+Please do not forget to make your BIOS boot on sda (ATA ST3500413AS) disk!
+
+The boot files of [The OS now in use - Ubuntu 16.04.6 LTS] are far from the start of the disk. Your BIOS may not detect them. You may want to retry after creating a /boot partition (EXT4, >200MB, start of the disk). This can be performed via tools such as gParted. Then select this partition via the [Separate /boot partition:] option of [Boot Repair]. (https://help.ubuntu.com/community/BootPartition)
+
+//Secont repair
+
+Boot successfully repaired.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/Q3RMrHzXCP/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com or to your favorite support forum.
+
+You can now reboot your computer.
+Please do not forget to make your BIOS boot on sda (ATA ST3500413AS) disk!
+
+The boot files of [The OS now in use - Ubuntu 16.04.6 LTS] are far from the start of the disk. Your BIOS may not detect them. You may want to retry after creating a /boot partition (EXT4, >200MB, start of the disk). This can be performed via tools such as gParted. Then select this partition via the [Separate /boot partition:] option of [Boot Repair]. (https://help.ubuntu.com/community/BootPartition)
+
+//3
+
+An error occurred during the repair.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/s8hRqpzGqh/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com 
+
+You can now reboot your computer.
+Please do not forget to make your BIOS boot on sdb (ATA ST3500413AS) disk!
+
+The boot files of [The OS now in use - Ubuntu 16.04.6 LTS] are far from the start of the disk. Your BIOS may not detect them. You may want to retry after creating a /boot partition (EXT4, >200MB, start of the disk). This can be performed via tools such as gParted. Then select this partition via the [Separate /boot partition:] option of [Boot Repair]. (https://help.ubuntu.com/community/BootPartition)
+
+//4
+
+Boot successfully repaired.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/7m5Gy9nCG4/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com or to your favorite support forum.
+
+You can now reboot your computer.
+Please do not forget to make your BIOS boot on sda (ATA ST3500413AS) disk!
+
+The boot files of [The OS now in use - Ubuntu 16.04.6 LTS] are far from the start of the disk. Your BIOS may not detect them. You may want to retry after creating a /boot partition (EXT4, >200MB, start of the disk). This can be performed via tools such as gParted. Then select this partition via the [Separate /boot partition:] option of [Boot Repair]. (https://help.ubuntu.com/community/BootPartition)
+
+//5
+
+Boot successfully repaired.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/cxr566sq9s/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com or to your favorite support forum.
+
+You can now reboot your computer.
+Please do not forget to make your BIOS boot on sda (ATA ST3500413AS) disk!
+
+The boot files of [The OS now in use - Ubuntu 16.04.6 LTS] are far from the start of the disk. Your BIOS may not detect them. You may want to retry after creating a /boot partition (EXT4, >200MB, start of the disk). This can be performed via tools such as gParted. Then select this partition via the [Separate /boot partition:] option of [Boot Repair]. (https://help.ubuntu.com/community/BootPartition)

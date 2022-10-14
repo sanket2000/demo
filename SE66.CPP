@@ -94,7 +94,7 @@ void main() {
 					putpixel(x-1, y, GREEN);
 					i++;
 				}
-				//clrscr();
+				
 		}
 
 	/*while( i <= step ) {
